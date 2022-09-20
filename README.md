@@ -4,7 +4,7 @@ ML trading bot (stored as **machine_learning_traing_bot.ipynb**) is a multi-func
 
 
 When running the original model using '''SVC''' classifier model we recieved the following results:
-![./output.png]
+![plot of actual returns vs strategy returns](./output.png)
 
 ## Technologies
 
