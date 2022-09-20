@@ -2,6 +2,10 @@
 
 ML trading bot (stored as **machine_learning_traing_bot.ipynb**) is a multi-function Jupyter Lab notebook to is a simulation of a trading bot for a stock firm. Improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. Enhance the existing trading signals with machine learning algorithms that can adapt to new data.
 
+
+When running the original model using '''SVC''' classifier model we recieved the following results:
+![./output.png]
+
 ## Technologies
 
 **machine_learning_traing_bot.ipynb** is a Jupyter labnotebook with python abilities. It leverages python 3.7 with the following packages:
