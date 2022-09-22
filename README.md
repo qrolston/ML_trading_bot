@@ -2,11 +2,15 @@
 
 ML trading bot (stored as **machine_learning_traing_bot.ipynb**) is a multi-function Jupyter Lab notebook to is a simulation of a trading bot for a stock firm. Improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. Enhance the existing trading signals with machine learning algorithms that can adapt to new data.
 
+![plot of actual returns vs strategy returns](./output.png)
+![plot of actual returns vs strategy returns](./output_6months.png)
+![plot of actual returns vs strategy returns](./output_SMA_adjust.png)
+
 
 When running the original model using <mark> SVC </mark> classifier model we recieved the following results:
 ![plot of actual returns vs strategy returns](./output.png)
 
-When running the alternative model using <mark> Logistic Regression </mark> classifier model we recieved the following results:
+When running the alternative model using <mark> LogisticRegression </mark> classifier model we recieved the following results:
 ![plot of actual returns vs strategy returns](./output2.png)
 
 ## Technologies
