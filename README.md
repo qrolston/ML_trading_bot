@@ -15,10 +15,10 @@ When extending the training window we experience a larger difference in results,
 
 When extending the training window and extending the SMA windows we experience a closer difference in results. However overall we experience more loss by extending the SMA window.
 
-When running the original model using >"SVC"  classifier model we recieved the following results:
+When running the original model using 'SVC'  classifier model we recieved the following results:
 ![plot of actual returns vs strategy returns](./output.png)
 
-When running the alternative model using >"LogisticRegression" classifier model we recieved the following results:
+When running the alternative model using 'LogisticRegression' classifier model we recieved the following results:
 ![plot of actual returns vs strategy returns](./output2.png)
 
 ## Technologies
